@@ -27,7 +27,7 @@ When right arrow pressed<br>
 turn -20 degrees, change costume and wait until not pressing right arrow 
 
 
-When mouse recieves the broadcast<br>
+When mouse receives the broadcast<br>
 hide the score and time variables, hide the mouse and stop the mouse
 
 
@@ -46,7 +46,7 @@ repeat random 7 to 20 times
 3. wait
 4. if touching the edge bounce off it
 
-When cat recieves dead broadcast<br>
+When cat receives end game broadcast<br>
 hide and stop cat
 
 **Code for Cheese**<br>
@@ -57,15 +57,30 @@ hide cheese, set score to 0, create a clone
 When the Cheese starts as a clone<br>
 go to random position and show<br>
 Repeat forever<br>
-if touching mouse add 1 to score, broadcast message, delete the clone
+if touching mouse add 1 to score, broadcast cheese message, delete the clone
 
 
-When cheese recieves broadcast<br>
+When cheese receives broadcast<br>
 wait 3 seconds a make a clone
 
 
-When cheese recieves dead broadcast<br>
+When cheese receives end game broadcast<br>
 hide and stop cheese
+
+**Code for Backdrop**<br>
+When green flag is clicked<br>
+hide High score variable and switch to bedroom backdrop
+
+
+When green flag clicked<br>
+repeat forever<br>
+if high score is less than score set high score to score
+
+
+When backdrop receives end game broadcast<br>
+switch to game over backdrop, show high score
+
+
 
 **This is bolded** <br>
 *This is italicized* <br>
