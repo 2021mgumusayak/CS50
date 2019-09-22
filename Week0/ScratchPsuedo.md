@@ -23,7 +23,20 @@ When right arrow pressed turn -20 degrees, change costume and wait until not pre
 When it recieves the broadcast hide the score and time variables, hide the mouse and stop the mouse
 
 
-**Code of Cat
+**Code of Cat**<br>
+When green flag is clicked hide the cat, create a clone then forever make a clone every 30 seconds
+
+
+When grenn flag clicked set time to 0 and forever change time by 1 every second
+
+
+When the cat starts as a clone go to (0,0), show the clone, make the rotation style left-right then<br>
+forever pick a random direction<br>
+repeat random 7 to 20 times:
+1. Move random 1 to 10 steps
+2. Switch costumes
+3. wait
+4. if touching the edge bounce off it
 
 
 **This is bolded** <br>
