@@ -2,25 +2,33 @@
 
 
 **Code for Mouse** <br>
-When the green flag is clicked show the score and time variables and show the mouse
+When the green flag is clicked<br>
+show the score and time variables and show the mouse
 
 
-When the green flag is clicked repeat forever if touching cat end the game with broadcast
+When the green flag is clicked<br> 
+repeat forever<br> 
+if touching cat end the game with broadcast
 
 
-When up arrow is press forever move 3 steps and change costume until not pressing up arrow
+When up arrow is pressed <br>
+forever move 3 steps and change costume until not pressing up arrow
 
 
-When down arrow is press move -1 steps and change costume until not pressing down arrow
+When down arrow is pressed<br> 
+move -1 steps and change costume until not pressing down arrow
 
 
-When left arrow pressed turn 20 degrees, change costume and wait until not pressing left arrow 
+When left arrow pressed<br> 
+turn 20 degrees, change costume and wait until not pressing left arrow 
 
 
-When right arrow pressed turn -20 degrees, change costume and wait until not pressing right arrow 
+When right arrow pressed<br>
+turn -20 degrees, change costume and wait until not pressing right arrow 
 
 
-When it recieves the broadcast hide the score and time variables, hide the mouse and stop the mouse
+When mouse recieves the broadcast<br>
+hide the score and time variables, hide the mouse and stop the mouse
 
 
 **Code of Cat**<br>
