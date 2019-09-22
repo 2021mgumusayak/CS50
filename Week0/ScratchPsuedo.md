@@ -1,4 +1,16 @@
-# Scartch Project
+# Get the Cheese Scratch project
+
+
+**Code for Mouse** <br>
+When the green flag is clicked show the score and time variables and show the mouse
+
+
+
+
+
+
+
+
 **This is bolded** <br>
 *This is italicized* <br>
 ~~strikethrough~~
