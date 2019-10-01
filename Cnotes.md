@@ -19,9 +19,9 @@ In C, you must declare the type of varianle you are creating
 
 Scratch: change counter by 1
 ```C
-counter = counter + 1; #add any number to counter
-counter += 1; #add any number to counter 
-counter++; #only adds plus 1 to counter
+counter = counter + 1; //add any number to counter
+counter += 1; //add any number to counter 
+counter++; //only adds plus 1 to counter
 ```
 
 Scratch: if x is less than y say x is less than y
@@ -54,7 +54,7 @@ else if (x > y)
 {
 printf("x is greater than y\n");
 }
-else if (x == y)# not needed because if other 2 are false than x == y is true
+else if (x == y) // not needed because if other 2 are false than x == y is true
 {
 printf("x is equal to y");
 }
@@ -92,3 +92,17 @@ Scratch:
 ```C
 
 ```
+
+```C
+#include <stdio.h>
+
+int main(void)
+{
+printf("hello, world\n");
+}
+```
+Source Code -> Compiler -> Machine Code
+run a file: ./filename.extension
+convert to machine code: clang filename.extension
+convert to machine code with name: clang -o wantedname filename.extension
+convert to machine code: make
