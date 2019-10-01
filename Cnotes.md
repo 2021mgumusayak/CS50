@@ -105,4 +105,6 @@ Source Code -> Compiler -> Machine Code
 run a file: ./filename.extension
 convert to machine code: clang filename.extension
 convert to machine code with name: clang -o wantedname filename.extension
-convert to machine code: make
+convert to machine code: make filename
+%i sub in int
+%s sub in string
