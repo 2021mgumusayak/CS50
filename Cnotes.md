@@ -108,3 +108,11 @@ convert to machine code with name: clang -o wantedname filename.extension
 convert to machine code: make filename
 %i sub in int
 %s sub in string
+Number with decimal -> float
+%f sub in float
+
+Finite memory storing infinite numbers/precision- not possible
+
+Copy/Paste = Bad
+
+Do-While Loops ensure the loop ccommand is executed at least 1 time
