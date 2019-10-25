@@ -115,4 +115,17 @@ Finite memory storing infinite numbers/precision- not possible
 
 Copy/Paste = Bad
 
+
 Do-While Loops ensure the loop ccommand is executed at least 1 time
+## Lecture 2
+
+**Source code to Machine code steps (Compiling):**
+* Preprocessing:
+    * #include lines happens before compiling, header files
+* Compling: convert source code to Assembly code
+* Assembling: turns assembly code into binary 0's and 1's
+* Linking: places individual binary files one after another (combines/links) so it is one "string" of 0's and 1's 
+
+
+* use printf() for diagnostic purposes
+* whenever code does not give intended results
