@@ -129,3 +129,9 @@ Do-While Loops ensure the loop ccommand is executed at least 1 time
 
 * use printf() for diagnostic purposes
 * whenever code does not give intended results
+
+Array: contiguous "chunk" of memory for string information
+
+return if you need to use something from the function
+
+"Global" variable- written in all caps, 
