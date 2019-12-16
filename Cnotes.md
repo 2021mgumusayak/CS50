@@ -135,3 +135,7 @@ Array: contiguous "chunk" of memory for string information
 return if you need to use something from the function
 
 "Global" variable- written in all caps, 
+
+heap: variables use this, "top" of memory
+
+stack - Functions use this, "bottom" of memory
