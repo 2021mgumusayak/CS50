@@ -138,7 +138,7 @@ return if you need to use something from the function
 
 heap: variables use this, "top" of memory
 
-stack - Functions use this, "bottom" of memory
+stack - Functions use this, "bottom" of memory<br>
 
 
 
