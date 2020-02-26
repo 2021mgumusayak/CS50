@@ -139,3 +139,12 @@ return if you need to use something from the function
 heap: variables use this, "top" of memory
 
 stack - Functions use this, "bottom" of memory
+
+
+
+Hash Table:
+
+Relates "keys" to "values" and "keys" do not need to be ints
+
+
+Linked List: Arrays that are NOT stored contiguously
